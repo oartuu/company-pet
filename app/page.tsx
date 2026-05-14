@@ -10,6 +10,7 @@ export default function Home() {
       <p className="text-2xl pt-2 text-zinc-200">
         Serviço Inteligente Robótico para Interações, Usuários e Suporte
       </p>
+      <p className="text-xl pt-2 text-zinc-200">Disciplina: Resolução de Problemas Estruturados em Computação</p>
     </div>
   );
 }
